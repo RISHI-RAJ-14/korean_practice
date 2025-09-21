@@ -7,7 +7,7 @@ A tool designed to help you improve your Korean writing and reading skills by ge
 
 ---
 
-## 🛠 Features
+## 🛠 Features available
 
 - **Difficulty Levels**  
   Choose from *Beginner*, *Intermediate*, or *Advanced* to get text suited for your current level.
