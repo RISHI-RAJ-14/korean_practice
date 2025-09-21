@@ -23,7 +23,7 @@ A tool designed to help you improve your Korean writing and reading skills by ge
 
 ---
 
-## 💡 How to Use
+## 💡 How to Use application
 
 1. Go to the app link above.  
 2. Use the checkbox to toggle Dark or Light mode.  
